@@ -1,16 +1,11 @@
-# belanja_flutter
+Nama    : Ahmed Fathir Syafaat
 
-A new Flutter project.
+Kelas   : TI - 3H
 
-## Getting Started
+NIM     : 2241720083
 
-This project is a starting point for a Flutter application.
+## #06 | Layout dan Navigasi
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Praktikum 5: Membangun Navigasi di Flutter
+![alt text](assets/images/P5.gif)
+> Terdapat error saat mengklik salah satu item dalam daftar karena halaman target yang dituju belum memiliki implementasi widget body atau layout, sehingga menghasilkan UnimplementedError.
